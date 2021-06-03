@@ -8,4 +8,4 @@ requests==2.20.0
 Rx==1.6.1
 six==1.11.0
 typing==3.6.4
-urllib3==1.24.2
+urllib3==1.26.5
